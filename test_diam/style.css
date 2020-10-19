@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  
+
+}
+.header{
+  font-size: 40px;
+  text-align: center;
+  color: teal;
+}
+.top{
+  font-size: 30px;
+  text-align: center;
+  color: teal;
+}
+.col-md-5 {
+    max-width: 100% !important;
+}
+.col-md-4 {
+    max-width: 100% !important;
+}
